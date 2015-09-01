@@ -1,0 +1,8 @@
+{
+    "project" : "Gulp",     
+    "localserver" : {
+        "host" : "localhost",
+        "port" : "8081"
+    },
+    "tinypngapi": "Tinypng API KEY"
+}   
